@@ -1,0 +1,6 @@
+{
+    "name": "james/demo5",
+    "require": {
+        "yiisoft/yii2-gii": "2.0.5"
+    }
+}
